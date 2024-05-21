@@ -16,6 +16,7 @@ Deployment:
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 - [Docker Hub](https://hub.docker.com/)
 - [Azure Web App Service](https://azure.microsoft.com/en-us/products/app-service/web)
+- [Azure Front Door](https://azure.microsoft.com/en-au/products/frontdoor)
   
 Development:  
 - [Next.js 14](https://nextjs.org/docs/getting-started)
